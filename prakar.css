@@ -1,0 +1,34 @@
+body{
+    background-color: lightblue;
+}
+.pra{
+    color: red;
+    background-color: yellow;
+}
+.sau{
+    color: green;
+}
+.a1{
+    border: 5px solid red;
+    border-radius: 12px;
+    padding: 5px;
+
+}
+.exe{
+    background-color: lightpink;
+}
+.home{
+    border: 3px solid red;
+    border-radius: 5px;
+    padding: 2px;
+
+}
+.line{
+    color:firebrick;
+}
+.line a{
+    color:firebrick;
+}
+.line 2{
+    color: firebrick;
+}
